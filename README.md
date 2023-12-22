@@ -1,4 +1,3 @@
 # Expert System Mobile Application
-Expert system mobile application developed with flutter and machine learning
-
+This is an expert system mobile application developed by flutter and the expert system is developed by using machine learning.
 
